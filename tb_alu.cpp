@@ -4,6 +4,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <memory>
+#include <deque>
 #include <verilated.h>
 #include <verilated_vcd_c.h>
 #include "Valu.h"
